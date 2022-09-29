@@ -1,0 +1,43 @@
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+	reactStrictMode: true,
+	images: {
+		domains: [
+			'localhost:3000',
+			'cdn.moralis.io',
+			'etherscan.io',
+			'widget.onramper.com',
+			'onramper.tech',
+			'api.wallet.coinbase.com',
+			'cdn.sanity.io',
+			'mikereams.com',
+			'mikereams.sanity.studio',
+			'ag7xdnxz.api.sanity.io',
+			'avatars.githubusercontent.com',
+			'platform-lookaside.fbsbx.com',
+			'firebasestorage.googleapis.com',
+			'googletagmanager.com',
+			'avatars.githubusercontent.com',
+			'firestore.googleapis.com',
+			'facebook.com',
+			'etherscan.io',
+			'media-exp1.licdn.com',
+			'pbs.twimg.com',
+			'googleusercontent.com',
+			'lh3.googleusercontent.com',
+			'encrypted-tbn0.gstatic.com',
+			'via.placeholder.com',
+			'events-service.coinbase.com',
+			'coinbase.com',
+			'rpc-mumbai.maticvigil.com',
+			'gateway.ipfscdn.io',
+			'gateway.ipfs.io',
+			'arweave.net',
+			's2.coinmarketcap.com',
+			's3.coinmarketcap.com',
+			'encrypted-tbn0.gstatic.com',
+		],
+	},
+}
+
+module.exports = nextConfig
