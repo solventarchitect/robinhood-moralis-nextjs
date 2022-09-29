@@ -2,7 +2,7 @@
 
 📈 Robinhood Clone using Nextjs and Moralis
 
-## 🌐 Site: https://dapp.creativesocial.io
+## 🌐 Site: http://robinhood.mikereams.com/ or https://robinhood-moralis-nextjs.vercel.app/
 
 ## 💿 Initial Setup
 

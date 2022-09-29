@@ -4,6 +4,7 @@ const nextConfig = {
 	images: {
 		domains: [
 			'localhost:3000',
+			'vitals.vercel-insights.com',
 			'cdn.moralis.io',
 			'etherscan.io',
 			'widget.onramper.com',
