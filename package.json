@@ -1,6 +1,12 @@
 {
 	"name": "robinhood-moralis-nextjs",
-	"version": "0.1.0",
+	"author": "Mike Reams",
+	"contributors": [
+		"Mike Reams",
+		"solventarchitect"
+	],
+	"homepage": "https://robinhood.mikereams.com/",
+	"version": "1.1.0",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
